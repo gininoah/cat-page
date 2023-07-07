@@ -1,0 +1,155 @@
+.first_div{
+  background-color: #EAF6F6;
+}
+
+.second_div{
+  background-color: red;
+  width: 200px;
+  height: 200px;
+}
+
+.third_div{
+  background-color: blue;
+  width: 200px;
+  height: 200px;
+}
+
+body{
+  background-color: #EAF6F6;
+  margin: 100px auto;
+  text-align: center;
+  font-family: "Ubuntu", sans-serif;
+  font-size: 1em;
+}
+
+h1{
+  font-size: 5rem;
+  margin: 50px auto 0px auto;
+  color: #66BFBF;
+}
+
+h2{
+  font-size: 2.5rem;
+  font-weight: normal;
+  color: #66BFBF;
+}
+
+h3{
+  color: #11999E;
+}
+
+hr{
+  border: solid 10px;
+  border-color: lightblue;
+  border-style: dotted;
+  border-left: none;
+  border-right: none;
+  border-bottom: none;
+  width: 5%;
+
+}
+
+.emperor_script{
+  margin-bottom: 40px;
+}
+
+.hacking_script{
+  color: #11999E;
+}
+
+.hello_sub_title{
+  color: #40514E;
+}
+
+.bottom-container{
+  width: 100%;
+  height: 150px;
+  background-color: #66BFBF;
+  position: absolute;
+}
+
+.footer-link1{
+  color: #11999E;
+  position: relative;
+  top: 40px;
+  right: 10px;
+  text-align: left;
+}
+
+.footer-link2{
+  color: #11999E;
+  position: relative;
+  text-align: center;
+  top: 40px;
+}
+
+.footer-link3{
+  color: #11999E;
+  position: relative;
+  top: 40px;
+  left: 10px;
+  text-align: right;
+}
+
+.btn{
+  color: #11999E;
+  background-image: url("https://media.giphy.com/media/BXjqytvu9bKzCUHdzz/giphy.gif");
+  background-size: cover;
+}
+
+.noah2023{
+  margin-top: 70px;
+  margin-bottom: 0;
+  font-size: 15px;
+}
+
+.contact-me{
+  margin-bottom: 70px;
+}
+
+.top-cloud{
+  position: absolute;
+  right: 15%;
+  top: 7%;
+}
+
+.bottom-cloud{
+  position: absolute;
+  left: 15%;
+}
+
+.skill-row-top{
+  width: 50%;
+  position: relative;
+  margin: 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.skill-row-bottom{
+  width: 50%;
+  position: relative;
+  margin: 50px auto;
+  text-align: right;
+  line-height: 2;
+}
+
+.profile_img{
+  border-radius: 200px;
+  width: 15%;
+}
+
+.skill-img-top{
+  max-width: 90%;
+  float: left;
+  margin-right: 30px;
+  border-radius: 50px;
+}
+
+.skill-img-bottom{
+  max-width: 70%;
+  height: 40%;
+  float: right;
+  margin-left: 30px;
+  border-radius: 50px;
+}
